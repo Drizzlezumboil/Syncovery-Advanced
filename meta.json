@@ -1,0 +1,23 @@
+{
+  "repo": "syncovery-advanced",
+  "product": "Syncovery Advanced",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "backup-recovery",
+  "topics": [
+    "syncovery",
+    "syncovery-windows",
+    "backup-recovery-desktop",
+    "how-to-install-syncovery",
+    "syncovery-desktop-package",
+    "syncovery-workspace",
+    "syncovery-pro-tools",
+    "syncovery-suite",
+    "zentool-syncovery",
+    "syncovery-tool-9"
+  ],
+  "site": "zentool.art"
+}
